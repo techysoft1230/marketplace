@@ -1,0 +1,26 @@
+{
+  "name": "ourmarket",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.16.1",
+    "@mui/material": "^5.16.1",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "bootstrap": "^5.3.3",
+    "preact": "^10.22.0",
+    "react-bootstrap": "^2.10.4",
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.2",
+    "vite": "^5.3.1"
+  }
+}
